@@ -28,8 +28,11 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 
+gem 'jquery-rails'
+
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'bootstrap-datepicker-rails'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
